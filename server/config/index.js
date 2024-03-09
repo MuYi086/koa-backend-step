@@ -2,17 +2,17 @@ const path = require('path')
 /**
  * 全局配置
  * @module Config
- * @author ougege <1258947325@qq.com>
- * @link http://www.github.com/ougege
+ * @author MuYi086 <1258947325@qq.com>
+ * @link http://www.github.com/MuYi086
  */
 module.exports = {
   env: 'dev',
   apiPrefix: '/api/',
   database: {
-    dbName: 'koa_ougege_cn',
+    dbName: 'koa_MuYi086_cn',
     host: '192.168.1.104',
     port: 3306,
-    user: 'koa_ougege_cn',
+    user: 'koa_MuYi086_cn',
     password: 'testkoa'
   },
   jwtConfig: {

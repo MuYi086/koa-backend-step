@@ -1,7 +1,7 @@
 /**
  * @Author: yanglu
  * @Email: 1258947325@qq.com
- * @Blog: https://github.com/ougege/blog
+ * @Blog: https://github.com/MuYi086/blog
  * @Theme: 对js类型判断
  * @Date: 2017/10/21 14:59
  */
